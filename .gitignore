@@ -1,0 +1,10 @@
+.settings
+.classpath
+.project
+.metadata
+.idea
+.DS_Store
+target
+*.iml
+zerotouch-auto/zt-ui/src/test/resources/features/
+test-output/
